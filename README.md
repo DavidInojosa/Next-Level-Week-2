@@ -1,9 +1,6 @@
 # **Next Level Week #02 | Proffy**
 
 Prática da Next Level Week #02 | [Rocketseat][Rocketseat]
-
-![Banner topo][Banner topo]
-
   
 
 ## **Introdução**
@@ -13,7 +10,7 @@ ___
 
 ### Projeto **Proffy**
 
-Esse repositório contempla a prática proposta na **segunda edição da `<nwl/>` (NextLevelWeek)**, cujo projeto se chama **Proffy**.
+Esse repositório contempla a prática proposta na **segunda edição da (NextLevelWeek)**, cujo projeto se chama **Proffy**.
 
 ![Proffy](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3368c282-bf94-49bb-bc6b-905542231e2c%2FPattern.png?table=block&id=3d5f45f5-4ec5-4ef9-b210-3565b7cce4e1&width=3840&cache=v2)
 
@@ -34,10 +31,6 @@ node -v
 npm -v
 // deve retornar 6.14.6
 ```
-
-### Layout
-
-Garanta que possui acesso aos arquivos de _layout_ do projeto no [Figma][Figma] para ter uma melhor visão do que será construído.
 
 ### Funcionalidades
 
