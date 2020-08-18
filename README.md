@@ -57,7 +57,10 @@ Confira as principais tecnologias utilizadas no projeto:
 | ambiente | 'sub pacote' |
 | ----- | ----- |
 | Web | [ReactJS][ReactJS] |
-| Mobile App | [React Native][React Native] | [Não terminei o Mobile App - DavidInojosa] |
+| Mobile App | [React Native][React Native] |
+
+##### React Native - Não terminado
+
 
 Independentemente do 'sub pacote', sempre utilizaremos o **[React][React]**. O [React][React] também utiliza bibliotecas adicionais para integrar-se às interfaces de acordo com o ambiente. Por exemplo, na web utilizamos o [ReactJS][ReactJS] com o [ReactDOM][ReactDOM]. Já para _apps mobile_ utilizamos o [ReactNative][ReactNative] com uma biblioteca adicional também chamada de [ReactNative][ReactNative].
 
